@@ -24,7 +24,7 @@ Nesse repositório, colocarei os materiais desenvolvidos nas trilhas de aprendiz
 - Utilização de variáveis de ambiente para aumentar a segurança do código.
 - Integração da aplicação com a API do ChatGPT.
 
-### Java - Curso 3: Criando sua Primeira API e Conectando ao Front
+### Java Web - Curso 3: Criando sua Primeira API e Conectando ao Front
 
 #### Tópicos Abordados:
 
