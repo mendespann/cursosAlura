@@ -13,5 +13,4 @@ Nesse repositório, colocarei os materiais desenvolvidos nas trilhas de aprendiz
 - Desserialização de dados com a biblioteca Jackson, o que permite manipular objetos Java a partir de dados serializados em JSON;
 - Introdução à boas práticas de desenvolvimento com funções lambdas;
 - Manipulação fluxo de dados com Streams.
-- Confecção de um Desafio para aplicar a aprendizagem
 
