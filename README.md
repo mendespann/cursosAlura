@@ -4,7 +4,7 @@ Nesse repositório, colocarei os materiais desenvolvidos nas trilhas de aprendiz
 
 ## Java Web: crie aplicações usando Spring Boot
 
-### Curso 1: trabalhando com lambdas, streams e Spring Framework
+### Java Web - Curso 1: trabalhando com lambdas, streams e Spring Framework
 
 #### O curso contém:
 
@@ -12,5 +12,6 @@ Nesse repositório, colocarei os materiais desenvolvidos nas trilhas de aprendiz
 - Introdução sobre Git e Github; 
 - Desserialização de dados com a biblioteca Jackson, o que permite manipular objetos Java a partir de dados serializados em JSON;
 - Introdução à boas práticas de desenvolvimento com funções lambdas;
-- Manipulação fluxo de dados com Streams;
+- Manipulação fluxo de dados com Streams.
+- Confecção de um Desafio para aplicar a aprendizagem
 
