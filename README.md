@@ -8,7 +8,7 @@ Nesse repositório, colocarei os materiais desenvolvidos nas trilhas de aprendiz
 
 #### Tópicos Abordados:
 
-- O desenvolver uma aplicação linha de comando, focando no gerenciamento de séries, aplicando conceitos avançados de coleções, considerando que uma série pode ter várias temporadas com vários episódios;
+- O desenvolvimento de uma aplicação linha de comando, focando no gerenciamento de séries, aplicando conceitos avançados de coleções, considerando que uma série pode ter várias temporadas com vários episódios;
 - Introdução sobre Git e Github; 
 - Desserialização de dados com a biblioteca Jackson, o que permite manipular objetos Java a partir de dados serializados em JSON;
 - Introdução à boas práticas de desenvolvimento com funções lambdas;
