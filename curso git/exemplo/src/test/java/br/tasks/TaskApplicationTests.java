@@ -1,10 +1,10 @@
-package br.exemplo;
+package br.tasks;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ExemploApplicationTests {
+class TaskApplicationTests {
 
 	@Test
 	void contextLoads() {
