@@ -11,7 +11,7 @@ import lombok.Data;
 public class TaskDTO {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int id;
+    private Long id;
     private String titulo;
     private String descricao;
     private boolean concluida;
